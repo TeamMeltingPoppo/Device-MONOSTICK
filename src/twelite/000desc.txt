@@ -1,0 +1,3 @@
+[JAPANESE]
+TITLE=Peripheral
+DESC=MONOSTICK用のファームウェア
